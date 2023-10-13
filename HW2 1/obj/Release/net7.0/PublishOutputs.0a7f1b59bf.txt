@@ -1,0 +1,5 @@
+C:\Users\Seruy\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\net7.0\publish\HW1.exe
+C:\Users\Seruy\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\net7.0\publish\HW1.dll
+C:\Users\Seruy\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\net7.0\publish\HW1.deps.json
+C:\Users\Seruy\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\net7.0\publish\HW1.runtimeconfig.json
+C:\Users\Seruy\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\net7.0\publish\HW1.pdb
