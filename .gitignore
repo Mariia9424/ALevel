@@ -289,4 +289,3 @@ launchSettings.json
 .terraform
 terraform.tfstate
 terraform.tfstate.backup
-/gitignore.txt

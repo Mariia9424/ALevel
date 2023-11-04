@@ -1,0 +1,133 @@
+27.10.2023 19:52:28: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [error]: action failed by a reason: i broke a logic
+27.10.2023 19:52:30: [info]: start method: StartMethod
+27.10.2023 19:52:30: [warning]: skipped logic in method: SkippedLogicInMethod
