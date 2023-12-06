@@ -1,6 +1,6 @@
 ﻿namespace HomeWork_3_2
 {
-    class Program
+    internal sealed class Program
     {
         internal static void Main()
         {

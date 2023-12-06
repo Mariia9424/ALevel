@@ -2,7 +2,7 @@
 {
     public sealed class Program
     {
-        static void Main()
+        internal static void Main()
         {
             FirstClass class1 = new FirstClass();
             SecondClass class2 = new SecondClass();
