@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static void Main()
+        internal static void Main()
         {
             ContactsCollection contactCollection = new ContactsCollection();
 
@@ -26,16 +26,16 @@
             List<Contact> numberContacts = contactCollection.GetContacts("Number");
             List<Contact> otherContacts = contactCollection.GetContacts("#");
 
-            Console.WriteLine("English Contacts:");
+            Console.WriteLine($"English Contacts:");
             DisplayContacts(englishContacts);
 
-            Console.WriteLine("\nUkrainian Contacts:");
+            Console.WriteLine($"{Environment.NewLine}Ukrainian Contacts:");
             DisplayContacts(ukrainianContacts);
 
-            Console.WriteLine("\nNumber Contacts:");
+            Console.WriteLine($"{Environment.NewLine}Number Contacts:");
             DisplayContacts(numberContacts);
 
-            Console.WriteLine("\nOther Contacts:");
+            Console.WriteLine($"{Environment.NewLine}Other Contacts:");
             DisplayContacts(otherContacts);
         }
         static void DisplayContacts(List<Contact> contacts)
